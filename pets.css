@@ -1,0 +1,28 @@
+html {
+    background-color: aqua;
+    font-family: "Crimson Pro", serif;
+}
+
+ul{margin: 0;}
+
+.header-nav {
+    background-color: azure;
+    padding: 10px;
+}
+
+.site-heading {margin: 0;}
+
+.slogan {
+    margin: 4px;
+margin-bottom: 10px;
+}
+
+.main-content {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.site-footer {
+    margin-top: 10px;
+}
+
