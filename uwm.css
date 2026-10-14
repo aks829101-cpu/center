@@ -1,0 +1,30 @@
+html {
+    background-color: #f3f337;
+}
+.site-header {
+    background-color:coral
+    
+}
+
+.wrapper {
+    
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.site-main {
+    background-color:aliceblue;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.article-section {baclkground-color:lightblue;
+}
+
+.callout {background-color:blue}
+
+.site-footer {
+    background-color:lightgray;
+    
+}
