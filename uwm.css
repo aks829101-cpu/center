@@ -19,7 +19,8 @@ html {
     margin: 20px 0;
 }
 
-.article-section {baclkground-color:lightblue;
+.article-section {background-color:lightblue;
+padding: 20px;
 }
 
 .callout {background-color:blue}
